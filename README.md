@@ -40,11 +40,51 @@ Right now, I’m exploring:
 
 ## Tech Focus
 
-- **Languages**: Python, C/C++, PHP, HTML, CSS, JavaScript, SQL, ReactJS 
-- **AI Tools**: Redis, OpenAI API, Gemini API, Vector Search, Redis Stack, RAG pipelines
-- **Web Development**: jQuery, Tailwind CSS, PHP, AJAX
-- **Systems**: Docker, MySQL, SQL Server, XAMPP, RISC-V
-- **Startup Toolkit**: MVP building, fast iteration, AI integration, API-first mindset
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+### AI Tools  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-6A5ACD?style=flat)
+![Redis Stack](https://img.shields.io/badge/Redis_Stack-DC382D?style=flat&logo=redis&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-7C3AED?style=flat)
+
+---
+
+### Web Development  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-20232A?style=flat&logo=javascript&logoColor=white)
+
+---
+
+### Systems  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-0066A1?style=flat&logo=riscv&logoColor=white)
+
+---
+
+### Startup Toolkit  
+![MVP](https://img.shields.io/badge/MVP--driven-blue)
+![Iteration](https://img.shields.io/badge/Fast--Iteration-F59E0B)
+![AI Integration](https://img.shields.io/badge/AI--Integrated-10B981)
+![API First](https://img.shields.io/badge/API--First-FF6F00?style=flat&logo=swagger&logoColor=white)
 
 ---
 
