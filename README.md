@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.app.goo.gl/uXR1E9jqx9sYnRbj6" alt="MNfine Pixel Art Banner" width="100%">
+  <img src="6nd1vmirw0q01.gif" alt="MNfine Pixel Art Banner" width="100%">
 </p>
 
 # Welcome — I'm MNfine
