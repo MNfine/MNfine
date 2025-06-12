@@ -6,6 +6,7 @@
 # Welcome — I'm MNfine
 
 Hi, I'm a builder at heart — passionate about creating things that solve real problems. I’m working at the intersection of **technology**, **AI**, and **entrepreneurship**, with a mission to turn ideas into useful, scalable products.
+I'm currently an undergraduate student at the University of Information Technology, VNU-HCM (UIT), majoring in Information Technology.
 
 ---
 
