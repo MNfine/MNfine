@@ -31,7 +31,7 @@ Right now, I’m exploring:
 | Repository | Description |
 |------------|-------------|
 | **[llama2-lawbot](https://github.com/MNfine/llama2-lawbot)** | Legal assistant chatbot using Llama 2 + RAG + prompt engineering |
-| **[VietLawBot](https://github.com/MNfine/VietLawBot)** | Vietnamese legal chatbot built with OpenAI and Redis (RAG) |
+| **[VietLawBot](https://github.com/MNfine/VietLawBot)** | Vietnamese legal chatbot built with LaBSE for embedding, Redis (RAG) and prompt engineering |
 | **[VietNamAdventures](https://github.com/MNfine/VietNamAdventures)** | Interactive storytelling game based on Vietnamese folklore |
 | **[riscv-iss](https://github.com/MNfine/riscv-iss)** | RISC-V Instruction Set Simulator — understanding systems from the ground up |
 | **[riscv-assembler](https://github.com/MNfine/riscv-assembler)** | Assembler for RISC-V – educational and built from scratch |
