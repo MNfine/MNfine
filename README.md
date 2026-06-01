@@ -26,16 +26,30 @@ Right now, I’m exploring:
 
 ---
 
-## 🚀 Selected Repositories
+## 🚀 Featured Projects
 
-| Repository | Description |
-|------------|-------------|
-| **[llama2-lawbot](https://github.com/MNfine/llama2-lawbot)** | Legal assistant chatbot using Llama 2 + RAG + prompt engineering |
-| **[VietLawBot](https://github.com/MNfine/VietLawBot)** | Vietnamese legal chatbot built with LaBSE for embedding, Redis (RAG) and prompt engineering |
-| **[VietNamAdventures](https://github.com/MNfine/VietNamAdventures)** | Interactive storytelling game based on Vietnamese folklore |
-| **[riscv-iss](https://github.com/MNfine/riscv-iss)** | RISC-V Instruction Set Simulator — understanding systems from the ground up |
-| **[riscv-assembler](https://github.com/MNfine/riscv-assembler)** | Assembler for RISC-V – educational and built from scratch |
-| **[Demo-E-commerce-using-Redis](https://github.com/MNfine/Demo-E-commerce-using-Redis)** | Redis-based real-time shopping cart and product browsing system |
+### AI & Intelligent Systems
+
+| Repository             | Description                                                                                                                                    |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Website-SkyPlan**    | AI-powered travel planning platform integrating intelligent itinerary generation, personalized recommendations, and scalable web architecture. |
+| **VietLawBot**         | Vietnamese Legal AI Assistant leveraging RAG, Redis Stack Vector Search, LaBSE embeddings, and LLMs to provide grounded legal answers.         |
+| **bot-auto-trading**   | Automated trading platform built with Python, featuring market analysis, strategy execution, and workflow automation.                          |
+| **AI-SEO-Content-MVP** | AI-powered content generation system designed to automate SEO article creation, keyword optimization, and content workflows.                   |
+
+### Platforms & Products
+
+| Repository                        | Description                                                                                                                                 |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **isell**                         | Marketplace platform where users can discover, validate, buy, sell, and collaborate on startup ideas, AI products, and digital innovations. |
+| **Fire-Safety-Management-System** | 3D GIS-based fire safety management system for spatial visualization, emergency response planning, and smart infrastructure monitoring.     |
+
+### Systems & Engineering
+
+| Repository                      | Description                                                                                                                              |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **riscv-iss**                   | RISC-V Instruction Set Simulator built from scratch, supporting instruction execution, memory/register emulation, and execution tracing. |
+| **Demo-E-commerce-using-Redis** | Full-stack e-commerce application utilizing Redis for caching, sessions, OTP verification, shopping carts, and real-time messaging.      |
 
 ---
 
