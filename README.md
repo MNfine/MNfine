@@ -106,8 +106,12 @@ Right now, I’m exploring:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MNfine&show_icons=true&theme=default&hide=contribs" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNfine&layout=compact&theme=default" height="160">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MNfine&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNfine&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MNfine" />
 </p>
 
 ---
